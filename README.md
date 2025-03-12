@@ -27,8 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="vectorlogo.zone"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="vectorlogo.zone"/>
 </p>
 
 #### **Databases**
@@ -50,15 +50,24 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
+### **Automation**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/images/selenium_logo_mark_green.svg" alt="Selenium" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/cncf/landscape/bfb78eb14e1ffaa6e4d17560a3e0ae12d118a868/hosted_logos/stackstorm.svg" alt="raw.githubusercontent.com" width="50" height="50" />
+</p>
 
 #### **AI & Machine Learning**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="Numpy"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
 </p>
 
 ---
@@ -66,6 +75,13 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neilpatel5502&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neilpatel5502&show_icons=true&locale=en&layout=compact" width="50%"/>
 </p>
 
 ---
