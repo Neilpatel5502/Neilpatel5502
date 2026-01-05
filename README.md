@@ -74,14 +74,14 @@
 
 ### 📈 GitHub Statastics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neilpatel5502&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neilpatel5502&show_icons=true&theme=tokyonight" width="50%" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neilpatel5502&show_icons=true&locale=en&layout=compact" width="50%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Neilpatel5502&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="50%" alt="Top Languages" />
 </p>
 
 ---
